@@ -6,10 +6,7 @@
 
 ### <div align="center">I'm Yaswanth, a full-stack developer 👨‍💻 </div>  
   
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-  
+ 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
