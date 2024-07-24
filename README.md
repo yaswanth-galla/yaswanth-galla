@@ -81,7 +81,16 @@
 <a href="https://instagram.com/mr_handsome_10" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaswanth_galla&show_icons=true&locale=en" alt="Yaswanth_galla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanth_galla&" alt="Yaswanth_galla" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaswanth_galla&show_icons=true&locale=en&layout=compact" alt="Yaswanth_galla" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yaswanth_galla" alt="Yaswanth_galla" /></a></p>
 </div>  
+
+
   
 
 <br/>  
