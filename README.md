@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Yaswanth</h1>
 <h3 align="center">A passionate Full Stack Devoloper</h3>
 
