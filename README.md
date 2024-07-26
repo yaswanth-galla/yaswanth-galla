@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs.**
 
-- 💬 Ask me about **Reactjs,Nodejs**
+- 💬 Ask me about **Reactjs,Nodejs**.
 
 - 📫 How to reach me **gallayaswanth4@gmail.com**
 
