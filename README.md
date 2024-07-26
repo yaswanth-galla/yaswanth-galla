@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanth-galla&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanth-galla" /> </p>
 
 
-- 🌱 I’m currently learning **Full Stack Devolopment**
+- 🌱 I’m currently learning **Full Stack Devolopment.**
 - I enjoy building innovative solutions and contributing to the developer community.
 
 - 💬 Ask me about **Reactjs,Nodejs**.
