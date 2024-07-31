@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **Reactjs,Nodejs**.
 
+- 💬 Ask me about Python.
+
 - 📫 How to reach me **gallayaswanth4@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
