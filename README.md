@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Reactjs,Nodejs**.
 
-- 💬 Ask me about Python.
+- 💬 Ask me about **Python**.
 
 - 📫 How to reach me **gallayaswanth4@gmail.com**.
 
