@@ -32,15 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-galla&" alt="yaswanth-galla" /></p>
 
 
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
